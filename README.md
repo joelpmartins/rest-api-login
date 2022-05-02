@@ -38,6 +38,6 @@ http://localhost:{porta}/login
 ```sh
 {
   "email": "examplo@exemplo.com",
-  "password": "exemplo123",
+  "password": "exemplo123"
 }
 ```
